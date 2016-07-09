@@ -1,2 +1,2 @@
 添加一行文字
-这里是对master的修改
+这里是对master的修改, 并且采纳testBranch2的修改
